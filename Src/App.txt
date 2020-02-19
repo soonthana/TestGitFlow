@@ -2,6 +2,7 @@ APPLICATION
 [base_code=0.1.0]
 - User Account Management
 - Product Catalog
+- Payment
 
 DEPENDENCIES
 [CORE-SYSTEM=v1.0.0]
