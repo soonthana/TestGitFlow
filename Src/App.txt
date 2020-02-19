@@ -1,0 +1,8 @@
+APPLICATION
+[base_code=0.1.0]
+- User Account Management
+- Product Catalog
+
+DEPENDENCIES
+[CORE-SYSTEM=v1.0.0]
+[PRODUCT=v1.0.0]
