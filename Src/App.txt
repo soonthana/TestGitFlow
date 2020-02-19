@@ -1,8 +1,9 @@
 APPLICATION
-[base_code=0.1.0]
+[base_code=0.2.0]
 - User Account Management
 - Product Catalog
 - Payment
+- Notification
 
 DEPENDENCIES
 [CORE-SYSTEM=v1.0.0]
